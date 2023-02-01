@@ -7,6 +7,6 @@
   <h1>Vite + Svelte</h1>
 
   <div class="card">
-    <Counter count={42} />
+    <Counter count_1={50} count={42} />
   </div>
 </main>
